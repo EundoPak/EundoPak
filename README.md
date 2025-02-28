@@ -8,6 +8,6 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/EundoPak/ticket-life)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EundoPak/ad-config)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EundoPak/ad-config2)
+  - [Configuring On-premises Active Directory within Azure VMs Part 2](https://github.com/EundoPak/ad-config2)
   - [Configuring Group Polices within Azure VMS](https://github.com/EundoPak/gpo-config)
 
